@@ -18,6 +18,7 @@ Advantages of this module include:
 ## Platforms
 
 Supported OSes:
+- Ubuntu 24.04 (bash) #TBTested
 - Ubuntu 22.04 (bash)
 - Ubuntu 20.04 (bash)
 - Windows 10 (powershell)
@@ -29,6 +30,7 @@ Supported OSes:
 Supported ROS2 distributions:
 - Galactic
 - Humble
+- Jazzy 
 
 Supported Unity3d:
 - 2020+
